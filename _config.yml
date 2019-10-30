@@ -6,7 +6,7 @@ playstore_link: https://play.google.com/store/apps/details?id=dev.nery.last10&re
 app_icon: assets/appicon.png
 app_name: "Last 10"
 app_price: "Free"
-app_description: "Your 10 last credit transactions in a tap"
+app_description: "Your 10 last credit/debit transactions in a tap"
 
 enable_smart_app_banner: false
 
@@ -28,7 +28,7 @@ features:
     fontawesome_icon_name: credit-card
 
   - title: NFC
-    description: Last 10 uses the NFC scanner on your device in order to there these transactions. Normally they have the date amount, and currency.
+    description: Last10 use the NFC scanner on your device in order to there these transactions. Normally they have the date, amount, and currency.
     fontawesome_icon_name: mobile
 
   - title: Privacy
